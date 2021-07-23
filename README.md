@@ -1,6 +1,6 @@
 # Detection-of-Malarial-Parasite-using-MATLAB
 
-ABSTRACT
+##ABSTRACT
 
 This project uses image analysis studies aiming at automated diagnosis or screening of
 malaria infection in microscope images of thin blood film smears. Malaria is a mosquito-borne
@@ -12,7 +12,7 @@ fever and headache, which in severe cases can progress to coma or death. Malaria
 widespread in tropical and subtropical regions in a broad band around the equator, including
 much of Sub-Saharan Africa, Asia, and the Americas
 
-INTRODUCTION
+##INTRODUCTION
 
 Malaria is a mosquito borne disease caused by parasites of genus plasmodium. The person
 gets affected by malaria when malaria parasites are introduced into circulatory system by
@@ -22,7 +22,7 @@ malaria every 30 seconds. Every year, more than 500 million people become severe
 malaria. Between 300 million and 500 million people in Africa, India, Southeast Asia, the
 Middle East, the South Pacific, and Central and South America have the disease.
 
-GOAL
+##GOAL
 
 The biggest detraction of microscopy, namely its dependence on the skill, experience and
 motivation of a human technician, is to be removed. The objective of the project is to develop
